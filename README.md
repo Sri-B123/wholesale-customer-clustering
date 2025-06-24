@@ -1,4 +1,4 @@
-# Wholesale Customer Segmentation with KMeans
+# Wholesale Customer Clustering
 
 This project performs customer segmentation on the Wholesale Customers dataset using KMeans clustering.
 
